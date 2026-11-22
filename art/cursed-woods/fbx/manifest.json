@@ -1,0 +1,42 @@
+[
+  {
+    "file": "Split_Deadwood.fbx",
+    "triangles": 2156,
+    "local_size_xyz": [
+      10.331,
+      5.858,
+      12.705
+    ],
+    "atlas": "Deadwood"
+  },
+  {
+    "file": "Wayfarer_Grave.fbx",
+    "triangles": 402,
+    "local_size_xyz": [
+      4.318,
+      1.996,
+      3.822
+    ],
+    "atlas": "Roadside"
+  },
+  {
+    "file": "Grave_Lantern.fbx",
+    "triangles": 1628,
+    "local_size_xyz": [
+      3.399,
+      1.603,
+      6.672
+    ],
+    "atlas": "Roadside"
+  },
+  {
+    "file": "Witchcap_Log.fbx",
+    "triangles": 3338,
+    "local_size_xyz": [
+      6.097,
+      3.538,
+      2.994
+    ],
+    "atlas": "Deadwood"
+  }
+]

@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+*.rbxl
+*.rbxlx
+*.blend1
+*.blend2
+__pycache__/
+.DS_Store
+Thumbs.db
